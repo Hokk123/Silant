@@ -97,39 +97,10 @@ api/{user}/complaints/ - Получение всех рекламаций для
 |:-|:-:|:-|
 | Сервисная компания | Silant@ServiceCompany | L4SqjExPp6wgvPz |
 | ИП Селиванов М.А. | Selivanov | 8Pqskwg46vHSn2H |
-
-Сервисная компания
-Silant@ServiceCompany
-L4SqjExPp6wgvPz
-
-ИП Селиванов М.А.
-Selivanov
-8Pqskwg46vHSn2H
-
-ООО "Рога и Копыта 2"
-RK2
-8Pqskwg46vHSn2H
-
-ООО "АвтоМост"
-AutoBridge
-8Pqskwg46vHSn2H
-
-ООО "Большой Груз"
-BigBag
-8Pqskwg46vHSn2H
-
-ООО "СвязьПроект"
-NPOSP
-8Pqskwg46vHSn2H
-
-ООО "Серебряный авто"
-SilverCar
-8Pqskwg46vHSn2H
-
-ИП "Иван и Co"
-Ivan
-8Pqskwg46vHSn2H
-
-Менеджер Владимир
-silant@manager
-8Pqskwg46vHSn2H
+| ООО "Рога и Копыта 2" | RK2 | 8Pqskwg46vHSn2H |
+| ООО "АвтоМост" | AutoBridge | 8Pqskwg46vHSn2H |
+| ООО "Большой Груз" | BigBag | 8Pqskwg46vHSn2H |
+| ООО "СвязьПроект" | NPOSP | 8Pqskwg46vHSn2H |
+| ООО "Серебряный авто" | SilverCar | 8Pqskwg46vHSn2H |
+| ИП "Иван и Co" | IvanIvan | 8Pqskwg46vHSn2H |
+| Менеджер Владимир | silant@manager | 8Pqskwg46vHSn2H |
