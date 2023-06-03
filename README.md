@@ -93,6 +93,11 @@ api/{user}/complaints/ - Получение всех рекламаций для
 
 Зарегистрированые пользователи:
 
+| Название | Логин | Пароль |
+|:-|:-:|:-|
+| Сервисная компания | Silant@ServiceCompany | L4SqjExPp6wgvPz |
+| ИП Селиванов М.А. | Selivanov | 8Pqskwg46vHSn2H |
+
 Сервисная компания
 Silant@ServiceCompany
 L4SqjExPp6wgvPz
