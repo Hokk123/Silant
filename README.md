@@ -28,6 +28,7 @@
 | ООО "Серебряный авто" | SilverCar | 8Pqskwg46vHSn2H |
 | ИП "Иван и Co" | IvanIvan | 8Pqskwg46vHSn2H |
 | Менеджер Владимир | silant@manager | 8Pqskwg46vHSn2H |
+| Admin | vvs| admin |
 
 ### API
 В данной системе предусмотрено использование API запросы. Полученные данные возвращаются в формате json.
